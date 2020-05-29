@@ -1,0 +1,3 @@
+# Project exclude paths
+/web-test2-client/target/
+/web-test2-server/target/

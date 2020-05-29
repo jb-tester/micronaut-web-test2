@@ -1,0 +1,15 @@
+###
+GET http://localhost:8080/client/_test1
+
+###
+GET http://localhost:8080/client/_test0
+
+<> 2020-05-14T070324.200.json
+<> 2020-05-14T065617.200.json
+
+###
+GET http://localhost:8080/client/_test2
+
+<> 2020-05-14T071133.200.json
+
+###

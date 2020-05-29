@@ -1,0 +1,13 @@
+micronaut:
+  server:
+    port: 8081
+  application:
+    name: micronaut-web-test2
+  caches:
+    discovery-client:
+      enabled: false
+eureka:
+  client:
+    registration:
+      enabled: true
+    default-zone: localhost:8761
